@@ -1,0 +1,56 @@
+label {
+    color:black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+    padding-right: 20px;
+  }  
+  .container{ 
+    margin-top: 50px !important;
+    width: 92%;
+    background-color:  rgba(187, 181, 181, 0.89);
+    height: auto;
+    border-radius: 20px; 
+    justify-content: "center";
+    align-items: "center";  
+    margin-left: 80px;
+
+}  
+.input {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+}  
+.formulario{ 
+    margin-top: 40px; 
+    margin-left: 10px; 
+    margin-right: 10px; 
+} 
+.select{ 
+    border: none;
+    font-size: 14px;
+    height: 30px;
+    padding: 5px;
+    width: 250px;
+} 
+.bonton{
+    cursor: pointer; 
+    padding: 15px 9px; 
+   }  
+.correct{
+    cursor: pointer; 
+    padding: 5px 50px; 
+    border-radius: 12px;
+    margin-top: 40px; 
+    margin-bottom: 20px;
+} 
+.btn{ 
+    cursor: pointer; 
+    padding: 5px 50px; 
+    border-radius: 12px;
+    margin-top: 40px; 
+    margin-bottom: 20px;
+} 
